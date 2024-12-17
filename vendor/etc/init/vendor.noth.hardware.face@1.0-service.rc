@@ -1,0 +1,8 @@
+service vendor.face-hal-1-0-ext /vendor/bin/hw/vendor.noth.hardware.face@1.0-service
+    interface vendor.noth.hardware.face@1.0::IBiometricsFace default
+    interface android.hardware.biometrics.face@1.0::IBiometricsFace default
+    oneshot
+    disabled
+    class hal
+    user system
+    group camera system
