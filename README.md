@@ -1,0 +1,20 @@
+## qssi-user 14 UP1A.231005.007 2410311818 release-keys
+- Manufacturer: nothing
+- Platform: lahaina
+- Codename: Spacewar
+- Brand: Nothing
+- Flavor: qssi-user
+- Release Version: 14
+- Kernel Version: 5.4.242
+- Id: UP1A.231005.007
+- Incremental: 2410311818
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Nothing/Spacewar/Spacewar:11/RKQ1.211222.001/2410311818:user/release-keys
+- OTA version: 
+- Branch: qssi-user-14-UP1A.231005.007-2410311818-release-keys
+- Repo: nothing_spacewar_dump
