@@ -1,0 +1,20 @@
+##  14 AP2A.240705.005 eng.noodle.20240803.140500 test-keys
+- Manufacturer: xiaomi
+- Platform: kalama
+- Codename: fuxi
+- Brand: Xiaomi
+- Flavor: 
+- Release Version: 14
+- Kernel Version: 5.15.150
+- Id: AP2A.240705.005
+- Incremental: eng.noodle.20240803.140500
+- Tags: test-keys
+- CPU Abilist: arm64-v8a
+- A/B Device: true
+- Treble Device: false
+- Locale: undefined
+- Screen Density: undefined
+- Fingerprint: Xiaomi/fuxi_global/fuxi:13/TKQ1.221114.001/V816.0.5.0.UMCMIXM:user/release-keys
+- OTA version: 
+- Branch: -14-AP2A.240705.005-eng.noodle.20240803.140500-test-keys
+- Repo: xiaomi_fuxi_dump
